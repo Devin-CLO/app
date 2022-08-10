@@ -219,5 +219,19 @@
       "quaternion": [0, 0.7071067811865475, 0, 0.7071067811865476],
       "start_url": "https://webaverse.github.io/helm/"
     }
+    ,{
+	"position": [
+		0,
+		1,
+		0
+	],
+	"quaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+	"start_url": "https://devin-clo.github.io/fox/"
+}
   ]
 }
